@@ -310,7 +310,7 @@ Possible extensions of this project include:
 
 **Falak Habib**
 
-Computer Science Undergraduate | Machine Learning & Data Science Enthusiast
+Computer Science Undergraduate | AIML | Data Science | Data Analysis
 
 ---
 
